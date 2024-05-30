@@ -33,4 +33,4 @@ Feel free to fork this project and submit pull requests or create issues for any
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Remember 
-- **Remember to replace `app.py` with the actual filename of your bot script & replace your bot token from "YOUR_BOT_TOKEN" in code. Also, ensure you have a LICENSE file in your repository if you mention it in the README. This template provides a basic structure that you can customize further based on the specifics of your bot and your preferences.**
+- **Remember to replace `app.py` with the actual filename of your bot script & replace your bot token from `"YOUR_BOT_TOKEN"` in code. Also, ensure you have a LICENSE file in your repository if you mention it in the README. This template provides a basic structure that you can customize further based on the specifics of your bot and your preferences.**
